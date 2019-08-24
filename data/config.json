@@ -1,7 +1,7 @@
 {
     "pin": 1234,
     "name": "FootSwitch",
-    "currentConfig": "PDF",
+    "currentConfig": "DrawBoard",
     "configs": {
         "DrawBoard": {
             "LA": {
