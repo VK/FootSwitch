@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55mm"
+   height="50mm"
+   viewBox="0 0 55 50"
+   version="1.1"
+   id="svg838"
+   inkscape:export-filename="C:\Users\vikto\Desktop\footSwitchIcon\Rastergrafik.png"
+   inkscape:export-xdpi="2000"
+   inkscape:export-ydpi="2000"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="iconAlt.svg">
+  <defs
+     id="defs832" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-69.601062"
+     inkscape:cy="-250.12207"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1457"
+     inkscape:window-x="699"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-intersection-paths="true" />
+  <metadata
+     id="metadata835">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-71.439453,-82.632809)">
+    <g
+       aria-label="Alt"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.26459122px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       id="text2603"
+       transform="translate(-21.356596)">
+      <path
+         d="m 104.52062,92.413499 h 3.50588 l 10.79972,29.296251 h -4.43272 l -8.11994,-23.634458 -8.119931,23.634458 h -4.43272 z m -5.822976,18.959951 h 15.413776 v 3.90885 H 98.697644 Z"
+         style="fill:#666666;fill-opacity:1;stroke-width:0.26458335"
+         id="path2605"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <path
+         d="m 124.36077,116.30989 q 0,0.76565 0.32238,1.18877 0.34253,0.40298 0.94699,0.40298 h 1.93428 v 3.90885 h -2.41785 q -2.33725,0 -3.62677,-1.45071 -1.26937,-1.45071 -1.26937,-4.09019 V 92.413499 h 4.11034 z"
+         style="fill:#666666;fill-opacity:1;stroke-width:0.26458335"
+         id="path2607"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 135.50196,121.81049 c -1.69249,0 -2.93499,-0.46342 -3.72751,-1.39026 -0.77908,-0.94027 -1.21345,-2.32437 -1.16863,-4.15064 V 94.710454 h 4.11034 v 21.599436 c 0,0.51043 0.10075,0.90669 0.30223,1.18877 0.2015,0.26865 0.49701,0.40298 0.88655,0.40298 h 1.97457 v 3.90885 z m -7.05205,-21.01512 h 9.4296 v 3.70737 h -9.4296 z"
+         style="fill:#666666;fill-opacity:1;stroke-width:0.26458335"
+         id="path2609"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scsccscsccsccccc" />
+    </g>
+  </g>
+</svg>
