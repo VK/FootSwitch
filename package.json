@@ -1,0 +1,8 @@
+{
+    "name": "vk-foot-switch",
+    "version": "0.1",
+    "publisher": "VK",
+    "license": "MIT",
+    "displayName": "VK FootSwitch",
+    "description": "VK FootSwitch is an ESP32-based Bluetooth device to controll your computer with your feet."
+}
