@@ -1,0 +1,39 @@
+{
+    "pin": 1234,
+    "name": "FootSwitch",
+    "currentConfig": "PDF",
+    "configs": {
+        "DrawBoard": {
+            "LA": {
+                "SHIFT": 0,
+                "CTR": 0,
+                "ALT": 0,
+                "KEY": "LEFT"
+            },
+            "RA": {
+                "SHIFT": 0,
+                "CTR": 0,
+                "ALT": 0,
+                "KEY": "RIGHT"
+            },
+            "LB": {
+                "SHIFT": 0,
+                "CTR": 1,
+                "ALT": 0,
+                "KEY": "TAB"
+            },
+            "RB": {
+                "SHIFT": 1,
+                "CTR": 1,
+                "ALT": 0,
+                "KEY": "TAB"
+            },
+            "C": {
+                "SHIFT": 0,
+                "CTR": 0,
+                "ALT": 0,
+                "KEY": "HOME"
+            }
+        }
+    }
+}
