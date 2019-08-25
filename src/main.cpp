@@ -97,6 +97,19 @@ void setup()
       bleKeyboard.lastEventTime = micros();
     });
   }
+  else
+  {
+
+    //center button event to reboot if pressed long
+    centerButton = new ClickEvent(32, [](uint8_t count, unsigned long duration) {
+      if (duration > 1500)
+      {
+        web.needReboot = true;
+        web.rebootTimestamp = micros();
+      }
+      bleKeyboard.lastEventTime = micros();
+    });
+  }
 }
 
 void loop()
@@ -104,6 +117,7 @@ void loop()
   if (runWebConfig)
   {
     web.loop();
+    centerButton->loop();
   }
   else
   {
