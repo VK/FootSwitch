@@ -1,10 +1,18 @@
 # VK FootSwitch
 
-An ESP32 bluetooth and wifi footswitch I not only use to flip pages during music making but much more :).
+An ESP32 bluetooth and wifi footswitch I use to flip pages during music making.
 
-Foot switch                                                  |  Web App in action
-:-----------------------------------------------------------:|:-----------------------------------------------------------:
-![](https://vk.github.io/FootSwitch/docu/FootSwitchApp.gif)  |  ![](https://vk.github.io/FootSwitch/docu/FootSwitchApp.gif)
+Features:
+* Emulates a Bluetooth Low Energy Keyboard
+* Custrom key commands for short and long click
+* Settings easily changeable via [Web App](https://vk.github.io/FootSwitch/)
+  * using BLE Automation IO interface
+  * or via WLAN captive portal + ReST service
+
+
+Foot switch                                                      |  Web App in action
+:---------------------------------------------------------------:|:-----------------------------------------------------------:
+![](https://vk.github.io/FootSwitch/docu/FootSwitchBoxMini.png)  |  ![](https://vk.github.io/FootSwitch/docu/FootSwitchApp.gif)
 
 
 ## Build Procedure
