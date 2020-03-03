@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
@@ -48,7 +48,8 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: .pio/build/esp32dev/firmware.bin
           asset_name: firmware.bin
-          tag: ${{ steps.devtag.outputs.value  }}
+          #tag: ${{ steps.devtag.outputs.value  }}
+          tag: Dev
           overwrite: true
           allowUpdates: true
 
