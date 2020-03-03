@@ -50,6 +50,7 @@ jobs:
           asset_name: firmware.bin
           tag: ${{ steps.devtag.outputs.value  }}
           overwrite: true
+          allowUpdates: true
 
       
       - name: Npm build Web App
