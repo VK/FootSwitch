@@ -1,4 +1,4 @@
-name: Vue CI
+name: Vue + PlatformIO CI
 
 on:
   push:
