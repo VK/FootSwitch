@@ -1,10 +1,9 @@
 #ifndef _WEB_h
 #define _WEB_h
 
-#include <Wifi.h>
+
 #include <DNSServer.h>
 #include "ESPAsyncWebServer.h"
-#include "AsyncTCP.h"
 
 class Web
 {

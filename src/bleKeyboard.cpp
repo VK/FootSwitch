@@ -1,6 +1,5 @@
 #include "bleKeyboard.h"
 #include "keymap.h"
-#include "arduino.h"
 #include "SPIFFS.h"
 
 BleKeyboard bleKeyboard;
