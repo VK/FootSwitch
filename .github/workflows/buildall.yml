@@ -37,6 +37,9 @@ jobs:
       - name: Build Firmware for Esp32
         run: platformio run
 
+      - name: Build File System Image for Esp32
+        run: platformio run --target uploadfs
+
       - name: Publish firmware
         uses: svenstaro/upload-release-action@v1-release
         with:
