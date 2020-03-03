@@ -40,7 +40,7 @@ jobs:
 
       - name: Create date tag
         id: devtag
-        run: echo "::set-output name=value::$(date +'DEV_%Y-%m-%d_%H:%M')"
+        run: echo "::set-output name=value::$(date +'dev-v%Y-%m-%d-%H-%M')"
 
       - name: Publish firmware Permanent
         uses: svenstaro/upload-release-action@v1-release
@@ -58,7 +58,7 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: .pio/build/esp32dev/firmware.bin
           asset_name: firmware.bin
-          tag: Dev
+          tag: dev
           overwrite: true
           allowUpdates: true
       
