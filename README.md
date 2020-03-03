@@ -1,5 +1,7 @@
 # VK FootSwitch
 
+![Vue + PlatformIO CI](https://github.com/VK/FootSwitch/workflows/Vue%20+%20PlatformIO%20CI/badge.svg)
+
 An ESP32 bluetooth and wifi footswitch I use to flip pages during music making.
 
 Features:
